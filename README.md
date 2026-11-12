@@ -50,3 +50,7 @@ Future Hearth and Haul features may include:
 ## License and assets
 
 Original asset, code, and license notices are preserved from the recovered project materials. This repository does not replace original licensing terms with a blanket license.
+
+## Comparable projects and competitive research
+
+See [comparable games/mods, design benchmarks and evidence-led evaluation tasks](COMPETITORS.md). This dated research distinguishes current capabilities from improvement goals and complements existing roadmap and wiki research.
