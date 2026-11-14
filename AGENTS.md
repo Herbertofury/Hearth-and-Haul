@@ -16,3 +16,7 @@
 - Review the complete diff for unintended deletions before publishing. Verify the resulting remote tree and live Wiki after publication.
 - Build/static checks do not establish gameplay, item persistence, ownership, inventory nesting safety, multiplayer behavior or dimensional entry/exit correctness. Record passed, failed and not-run checks separately.
 - Keep the hub/internal to-dos and Wiki honest about partial work, blockers and exact next actions.
+
+## Pinned shared engineering core
+
+Read `.agents/foundry/AGENTS-adapter.md` for the shared mindset and independent-module requirements. The versioned snapshots are managed by Agent-Foundry; all recovery, compatibility, setup and acceptance details above remain owned by Hearth and Haul. Do not copy those local details into the shared core.
